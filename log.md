@@ -20,9 +20,18 @@
 
 ### Day 1: November 6,2017 
 
-**Today's Progress**: Leetcode 
+**Today's Progress**: Leetcode 1 problem
 
 **Thoughts:**  Successful first run on leetcode after.. I dont know when. 
 
-**Link to work:** https://leetcode.com/submissions/detail/126843547/
+**Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/Two_Sum.java
+
+### Day 1: November 7,2017 
+
+**Today's Progress**: Leetcode 2 problems
+
+**Thoughts:**  Making progress
+
+**Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/merge_two_sorted_lists.java
+                  https://github.com/leero-ady/Its_been_a_while/blob/master/valid_parenthesis.java
                    
