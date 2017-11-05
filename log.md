@@ -23,5 +23,6 @@
 **Today's Progress**: Leetcode 
 
 **Thoughts:**  Successful first run on leetcode after.. I dont know when. 
+
 **Link to work:** https://leetcode.com/submissions/detail/126843547/
                    
