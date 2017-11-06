@@ -36,4 +36,13 @@
                   https://github.com/leero-ady/Its_been_a_while/blob/master/valid_parenthesis.java
                   https://github.com/leero-ady/Its_been_a_while/blob/master/max_sum_contiguous_simple_code.java
                   https://github.com/leero-ady/Its_been_a_while/blob/master/Climb_stairs.java
+                  
+### Day 3: November 7,2017 
+
+**Today's Progress**: Leetcode x problems
+
+**Thoughts:**  Making progress and getting back the confidence of the Java syntax
+
+**Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/max_depth_binary_tree.java
+                  https://github.com/leero-ady/Its_been_a_while/blob/master/is_balanced_binary_tree.java
                    
