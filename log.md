@@ -10,7 +10,7 @@
                    https://github.com/leero-ady/Its_been_a_while/blob/master/sum_to_n.java
                    
 
-### Day 0: November 5,2017 
+### Day 0: November 3,2017 
 
 **Today's Progress**: Data Mining on Iris data set 
 
@@ -18,7 +18,7 @@
 
 **Link to work:** https://github.com/leero-ady/Data_Mining/
 
-### Day 1: November 6,2017 
+### Day 1: November 4,2017 
 
 **Today's Progress**: Leetcode 1 problem
 
@@ -26,7 +26,7 @@
 
 **Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/Two_Sum.java
 
-### Day 2: November 7,2017 
+### Day 2: November 5,2017 
 
 **Today's Progress**: Leetcode 4 problems
 
@@ -37,12 +37,23 @@
                   https://github.com/leero-ady/Its_been_a_while/blob/master/max_sum_contiguous_simple_code.java
                   https://github.com/leero-ady/Its_been_a_while/blob/master/Climb_stairs.java
                   
-### Day 3: November 7,2017 
+### Day 3: November 6,2017 
 
-**Today's Progress**: Leetcode x problems
+**Today's Progress**: Leetcode 2.5 problems
 
 **Thoughts:**  Making progress and getting back the confidence of the Java syntax
 
 **Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/max_depth_binary_tree.java
                   https://github.com/leero-ady/Its_been_a_while/blob/master/is_balanced_binary_tree.java
+                  
+### Day 4: November 7,2017 
+
+**Today's Progress**: Leetcode 1 problem
+
+**Thoughts:**  Soliving medium difficulty
+
+**Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/add_two_linked_list_success.java
+                                   
+                  
+                  
                    
