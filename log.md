@@ -50,9 +50,17 @@
 
 **Today's Progress**: Leetcode 1 problem
 
-**Thoughts:**  Soliving medium difficulty
+**Thoughts:**  Solving medium difficulty
 
 **Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/add_two_linked_list_success.java
+
+### Day 5: November 8,2017 
+
+**Today's Progress**: B+ trees and started reading about pyspark
+
+**Thoughts:**  Just getting started
+
+**Link to work:** https://github.com/leero-ady/bplustree
                                    
                   
                   
