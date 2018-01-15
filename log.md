@@ -70,6 +70,9 @@
 **Thoughts:** Been a while since I wrote working code, feels good to be back. But, as always I am left with a nag.
 
 **Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/merge_binary_trees.java
+                  https://leetcode.com/submissions/detail/136315499/
+                  https://leetcode.com/submissions/detail/136312254/
+                  https://leetcode.com/submissions/detail/136306344/
                    
                   
                    
