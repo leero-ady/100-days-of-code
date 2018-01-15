@@ -62,6 +62,14 @@
 
 **Link to work:** https://github.com/leero-ady/bplustree
                                    
-                  
+
+### Day 0: January 15,2018 
+
+**Today's Progress**: Solved some Interview Questions
+
+**Thoughts:** Been a while since I wrote working code, feels good to be back. But, as always I am left with a nag.
+
+**Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/merge_binary_trees.java
+                   
                   
                    
