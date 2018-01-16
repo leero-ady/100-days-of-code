@@ -74,6 +74,13 @@
                   https://leetcode.com/submissions/detail/136312254/
                   https://leetcode.com/submissions/detail/136306344/
                   https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/1
-                  https://leetcode.com/problems/move-zeroes/submissions/1                   
+                  https://leetcode.com/problems/move-zeroes/submissions/1       
                   
+### Day 1: January 16,2018 
+
+**Today's Progress**: Solved some Interview Questions
+
+**Thoughts:** Been a while since I wrote working code, feels good to be back. But, as always I am left with a nag.
+
+**Link to work:** https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/1
                    
