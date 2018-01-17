@@ -84,4 +84,13 @@
 
 **Link to work:** https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/1
                   https://github.com/leero-ady/Its_been_a_while/blob/master/reverse_ll.java
+ 
+ ### Day 2: January 17,2018 
+
+**Today's Progress**: Solved some Interview Questions
+
+**Thoughts:**  I fear I wont be able to make it to a 100 days.
+
+**Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/max_profit_stocks.java
+
                    
