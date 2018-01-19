@@ -100,6 +100,7 @@
 **Thoughts:**  I fear I wont be able to make it to a 100 days.
 
 **Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/path_sum_non_root.java
+                  https://github.com/leero-ady/Its_been_a_while/blob/master/not_adjacent_maximum_sum.java
 
                    
 
