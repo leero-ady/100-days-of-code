@@ -95,7 +95,7 @@
                   https://leetcode.com/problems/subtree-of-another-tree/submissions/1
                   
 
- ### Day 3: January 17,2018 
+ ### Day 3: January 18,2018 
 
 **Today's Progress**: Solved some Interview Questions
 
@@ -104,6 +104,13 @@
 **Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/path_sum_non_root.java
                   https://github.com/leero-ady/Its_been_a_while/blob/master/not_adjacent_maximum_sum.java
 
+ ### Day 4: January 19,2018 
+
+**Today's Progress**: Solved an Array easy problems on leetcode
+
+**Thoughts:**  Almost lost the streak, solved at the final hour of the day. :V
+
+**Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/non_decreasing_array.java
                    
 
                    
