@@ -111,6 +111,32 @@
 **Thoughts:**  Almost lost the streak, solved at the final hour of the day. :V
 
 **Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/non_decreasing_array.java
+
+
+
+ ### Day 5: January 20,2018 
+
+**Today's Progress**: Solved an Array easy problems on leetcode
+
+**Thoughts:**  Almost lost the streak, solved at the final hour of the day. :V
+
+**Link to work:** https://leetcode.com/problems/find-all-anagrams-in-a-string/description/
+
+ ### Day 6: January 21,2018 
+
+**Today's Progress**: Solved an Array easy problems on leetcode
+
+**Thoughts:**  Almost lost the streak, solved at the final hour of the day. :V
+
+**Link to work:** https://leetcode.com/problems/find-all-anagrams-in-a-string/description/
+
+ ### Day 7: January 22,2018 
+
+**Today's Progress**: Solved an Array easy problems on leetcode
+
+**Thoughts:**  Almost lost the streak, solved at the final hour of the day. :V
+
+**Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/palindrome_ll.java
                    
 
                    
