@@ -137,6 +137,14 @@
 **Thoughts:**  Almost lost the streak, solved at the final hour of the day. :V
 
 **Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/palindrome_ll.java
+
+ ### Day 7: January 22,2018 
+
+**Today's Progress**: Solved an Array easy problems on leetcode
+
+**Thoughts:**  Looking to solve five leetcode problems per day
+
+**Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/pascals_triangle.java
                    
 
                    
