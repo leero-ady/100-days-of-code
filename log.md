@@ -138,13 +138,25 @@
 
 **Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/palindrome_ll.java
 
- ### Day 7: January 22,2018 
+ ### Day 7: January 23,2018 
 
 **Today's Progress**: Solved an Array easy problems on leetcode
 
 **Thoughts:**  Looking to solve five leetcode problems per day
 
 **Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/pascals_triangle.java
+                  https://github.com/leero-ady/Its_been_a_while/blob/master/count_and_say.java
+                  https://leetcode.com/submissions/detail/137579623/
+                  
+ ### Day 8: January 24,2018 
+
+**Today's Progress**: Solved an Array easy problems on leetcode
+
+**Thoughts:**  Looking to solve five leetcode problems per day
+
+**Link to work:** https://github.com/leero-ady/Its_been_a_while/blob/master/pascals_triangle.java
+                  https://github.com/leero-ady/Its_been_a_while/blob/master/count_and_say.java
+                  https://leetcode.com/submissions/detail/137579623/                  
                    
 
                    
